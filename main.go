@@ -10,10 +10,10 @@ func main() {
 		w.Write([]byte(`
 			<html>
 				<head>
-					<title>Chat</title>
+					<title>测试DaoCloud</title>
 				</head>
 				<body>
-					Let's chat!
+					这是我的一个测试程序
 				</body>
 			</html>
 		`))
